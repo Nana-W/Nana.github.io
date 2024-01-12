@@ -1,6 +1,6 @@
 
 
-"Bachelor Thesis Supervision:"
+Bachelor Thesis Supervision:
 ======
 -Project: Motion Planning for an Unmanned Aerial Vehicle
 
