@@ -1,5 +1,6 @@
 
-
+Publications:
+=====
 
 1. Nana Wang, Dimos V. Dimarogonas. "Finite-time Topology Identification For Complex Dynamical Networks." 62rd IEEE Conference On Decision And Control, Singopore, 2023,  Accpeted.
 1. Esteban Restrepo, Nana Wang, Dimos V. Dimarogonas. " Simultaneous Synchronization And Topology Identification Of Complex Dynamical Networks." 62rd IEEE Conference On Decision And Control, Singopore, 2023, Accpeted.
