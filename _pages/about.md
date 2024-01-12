@@ -28,7 +28,11 @@ Recent news
 
 A brief Bio
 ======
-I am a second-year Phd student affiliated with Division of Decision and Control Systems [(DCS)](https://www.kth.se/is/dcs/division-of-decision-and-control-systems-1.788078#:~:text=The%20Division%20of%20Decision%20and,systems%20to%20self%2Ddriving%20cars) at KTH Royal Institute of Technology, under the supervision of [Dimos Dimarogonas](https://people.kth.se/~dimos/). I received my master degree from Beihang University, China and bachelor degree from Northwestern Polytechnical University, China. My primary research insterests are simultaneous identidication of network topology and multi-agent control. I am working in a wasp project now.
+I am a second-year Phd student affiliated with Division of Decision and Control Systems [(DCS)](https://www.kth.se/is/dcs/division-of-decision-and-control-systems-1.788078#:~:text=The%20Division%20of%20Decision%20and,systems%20to%20self%2Ddriving%20cars) at KTH Royal Institute of Technology, under the supervision of [Dimos Dimarogonas](https://people.kth.se/~dimos/). I received the B.Sc. degree in Detection, Guidance and Control from Northwestern Polytechnical University, Xian, in 2019. I received my M.Sc. degree in Control Theory and Science from Beihang University, Beijing, in 2022. 
+
+Research interest
+======
+My research interests include multi-agent systems, adaptive control, and event-triggered control. I am more interested in topology identification for complex networks and sythesis of topology identification and control for complex networks.
 
 
 
