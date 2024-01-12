@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Nana Wang"
   avatar           : "profile.png"
-  bio              : "ur biograph"
+  #bio              : "ur biograph"
   employer         :
  # pubmed           :  "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
