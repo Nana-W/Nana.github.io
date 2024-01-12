@@ -1,5 +1,4 @@
 
-This is a description of a teaching experience. 
 
 "Bachelor Thesis Supervision:"
 ======
