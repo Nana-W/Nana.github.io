@@ -1,15 +1,10 @@
----
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+
+1.Nana Wang, Dimos V. Dimarogonas. "Finite-time Topology Identification For Complex Dynamical Networks." 62rd IEEE Conference On Decision And Control, Singopore, 2023,  Accpeted.
+1.Esteban Restrepo, Nana Wang, Dimos V. Dimarogonas. " Simultaneous Synchronization And Topology Identification Of Complex Dynamical Networks." 62rd IEEE Conference On Decision And Control, Singopore, 2023, Accpeted.
+1.Esteban Restrepo, Nana Wang, Dimos V. Dimarogonas " Simultaneous Topology Identification And Synchronization Of Directed Dynamical Networks." IEEE Transactions On Control Of Network Systems, To appear.
+1.Nana Wang, Fei Hao. "Event-triggered Sliding Mode Control With Adaptive Neural Networks For Uncertain Nonlinear Systems." Neurocomputing 436 (2021): 184-197.
+1.Nana Wang, Fei Hao. "Event‐based Adaptive Sliding Mode Control For Euler–lagrange Systems With Parameter Uncertainties And External Disturbances." International Journal Of Robust And Nonlinear Control 32, No.9 (2022): 5420-5435.
+
+
