@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Automatic Control at the Division of [Decision and Control Systems](https://www.kth.se/is/dcs), KTH Royal Institute of Technology, Stockholm, supervised by Prof. [Dimos V. Dimarogonas](https://people.kth.se/~dimos/). I am also part of the [Wallenberg AI, Autonomous Systems and Software Program (WASP)](https://wasp-sweden.org/) AI PhD program. From October to December 2026 I am a visiting researcher at UCLouvain, Belgium, hosted by Prof. Julien M. Hendrickx.
+I am a Ph.D. candidate in Automatic Control at the Division of [Decision and Control Systems](https://www.kth.se/is/dcs), KTH Royal Institute of Technology, Stockholm, supervised by Prof. [Dimos V. Dimarogonas](https://people.kth.se/~dimos/). I am also part of the [Wallenberg AI, Autonomous Systems and Software Program (WASP)](https://wasp-sweden.org/) AI PhD program. From October to December 2026 I am a visiting researcher at UCLouvain, Belgium, hosted by Prof. [Julien M. Hendrickx](https://perso.uclouvain.be/julien.hendrickx/).
 
 📄 [Download my CV](files/CV_NanaWang.pdf)
 
@@ -23,7 +23,7 @@ My work focuses on recovering the hidden interaction structure (topology) of net
 
 News
 ======
-- **Oct 2026:** Started a research visit at UCLouvain, Belgium (Oct–Dec 2026), hosted by Prof. Julien M. Hendrickx.
+- **Oct 2026:** Started a research visit at UCLouvain, Belgium (Oct–Dec 2026), hosted by Prof. [Julien M. Hendrickx](https://perso.uclouvain.be/julien.hendrickx/).
 - **Aug 2026:** Attended the 23rd IFAC World Congress in Busan, Republic of Korea, and gave an oral presentation on [topology estimation for open multi-agent systems](https://arxiv.org/abs/2604.13628).
 - **2026:** Paper on [topology identification of dynamical signed graphs](https://arxiv.org/abs/2604.09079) accepted at the European Control Conference (ECC 2026).
 - **Dec 2025:** Attended the 64th IEEE Conference on Decision and Control (CDC) in Rio de Janeiro, Brazil, and gave an oral presentation.
