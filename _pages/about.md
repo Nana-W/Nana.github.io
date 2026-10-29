@@ -33,6 +33,7 @@ News
 - **Dec 2024:** Attended the 63rd IEEE Conference on Decision and Control (CDC) in Milan, Italy, and gave an oral presentation.
 - **Sep 2024:** Joined the WASP International Study Trip to Italy.
 - **Sep 2024:** Paper published in *IEEE Transactions on Control of Network Systems*.
+- **Aug 2024:** Joined the WASP Cluster Trip to Silicon Valley, USA.
 - **Jan 2024:** Presented a poster at the WASP Winter Conference.
 - **Dec 2023:** Attended the 62nd IEEE Conference on Decision and Control (CDC) in Singapore and gave two oral presentations.
 - **Sep 2023:** Joined the WASP International Study Trip to Boston, USA.
