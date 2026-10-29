@@ -12,6 +12,8 @@ I am a Ph.D. candidate in Automatic Control at the Division of [Decision and Con
 
 📄 [Download my CV](files/CV_NanaWang.pdf)
 
+✉️ Email: [nanaw@kth.se](mailto:nanaw@kth.se)
+
 Research interests
 ======
 - Learning and identification of dynamical systems
