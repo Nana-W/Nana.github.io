@@ -17,8 +17,8 @@ Full list also on [Google Scholar](https://scholar.google.com/citations?hl=en&us
 
 ## Conference papers
 
-1. **N. Wang**, P. Sekercioglu, D. V. Dimarogonas. "Topology Estimation for Open Multi-Agent Systems." *IFAC World Congress*, 2026.
-2. P. Sekercioglu, **N. Wang**, A. Fontan, D. V. Dimarogonas. "Topology Identification of Dynamical Signed Graphs." *European Control Conference (ECC)*, 2026.
+1. **N. Wang**, P. Sekercioglu, D. V. Dimarogonas. "Topology Estimation for Open Multi-Agent Systems." *IFAC World Congress*, 2026. [[arXiv]](https://arxiv.org/abs/2604.13628)
+2. P. Sekercioglu, **N. Wang**, A. Fontan, D. V. Dimarogonas. "Topology Identification of Dynamical Signed Graphs." *European Control Conference (ECC)*, 2026. [[arXiv]](https://arxiv.org/abs/2604.09079)
 3. **N. Wang**, D. V. Dimarogonas. "Leader Selection and Control Design for Topology Estimation of Dynamical Networks." *IEEE Conference on Decision and Control (CDC)*, 2025. [[DOI]](https://doi.org/10.1109/CDC57313.2025.11312879)
 4. **N. Wang**, E. Restrepo, D. V. Dimarogonas. "Simultaneous Topology Estimation and Synchronization of Dynamical Networks with Time-Varying Topology." *IEEE CDC*, 2024. [[DOI]](https://doi.org/10.1109/CDC56724.2024.10886499)
 5. **N. Wang**, D. V. Dimarogonas. "Finite-Time Topology Identification for Complex Dynamical Networks." *IEEE CDC*, 2023. [[DOI]](https://doi.org/10.1109/CDC49753.2023.10383624)

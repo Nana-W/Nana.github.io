@@ -24,8 +24,8 @@ My work focuses on recovering the hidden interaction structure (topology) of net
 News
 ======
 - **Oct 2026:** Started a research visit at UCLouvain, Belgium (Oct–Dec 2026), hosted by Prof. Julien M. Hendrickx.
-- **Aug 2026:** Attended the 23rd IFAC World Congress in Busan, Republic of Korea, and gave an oral presentation.
-- **2026:** Paper on topology identification of dynamical signed graphs accepted at the European Control Conference (ECC 2026).
+- **Aug 2026:** Attended the 23rd IFAC World Congress in Busan, Republic of Korea, and gave an oral presentation on [topology estimation for open multi-agent systems](https://arxiv.org/abs/2604.13628).
+- **2026:** Paper on [topology identification of dynamical signed graphs](https://arxiv.org/abs/2604.09079) accepted at the European Control Conference (ECC 2026).
 - **Dec 2025:** Attended the 64th IEEE Conference on Decision and Control (CDC) in Rio de Janeiro, Brazil, and gave an oral presentation.
 - **Jun 2025:** Presented a poster at Reglermöte 2025 (Swedish Control Conference).
 - **Jan 2025:** Presented a poster at the WASP Winter Conference.
@@ -41,7 +41,7 @@ News
 
 Selected publications
 ======
-- **N. Wang**, P. Sekercioglu, D. V. Dimarogonas. "Topology Estimation for Open Multi-Agent Systems." *IFAC World Congress*, 2026 (accepted).
+- **N. Wang**, P. Sekercioglu, D. V. Dimarogonas. "Topology Estimation for Open Multi-Agent Systems." *IFAC World Congress*, 2026. [[arXiv]](https://arxiv.org/abs/2604.13628)
 - **N. Wang**, D. V. Dimarogonas. "Leader Selection and Control Design for Topology Estimation of Dynamical Networks." *IEEE CDC*, 2025. [[DOI]](https://doi.org/10.1109/CDC57313.2025.11312879)
 - **N. Wang**, E. Restrepo, D. V. Dimarogonas. "Simultaneous Topology Estimation and Synchronization of Dynamical Networks with Time-Varying Topology." *IEEE CDC*, 2024. [[DOI]](https://doi.org/10.1109/CDC56724.2024.10886499)
 - E. Restrepo, **N. Wang**, D. V. Dimarogonas. "Simultaneous Topology Identification and Synchronization of Directed Dynamical Networks." *IEEE Transactions on Control of Network Systems*, 2024. [[DOI]](https://doi.org/10.1109/TCNS.2023.3338253)
