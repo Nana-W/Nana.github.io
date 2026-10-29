@@ -24,6 +24,10 @@ Full list also on [Google Scholar](https://scholar.google.com/citations?hl=en&us
 5. **N. Wang**, D. V. Dimarogonas. "Finite-Time Topology Identification for Complex Dynamical Networks." *IEEE CDC*, 2023. [[DOI]](https://doi.org/10.1109/CDC49753.2023.10383624)
 6. E. Restrepo, **N. Wang**, D. V. Dimarogonas. "Simultaneous Synchronization and Topology Identification of Complex Dynamical Networks." *IEEE CDC*, 2023. [[DOI]](https://doi.org/10.1109/CDC49753.2023.10383578)
 
+## Theses
+
+1. **N. Wang**. "Network Identification and Control for Heterogeneous Multi-Agent Systems." *Licentiate thesis*, KTH Royal Institute of Technology, 2024. [[DiVA]](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1912011)
+
 ## Before Ph.D.
 
 1. **N. Wang**, F. Hao. "Event-Triggered Sliding Mode Control with Adaptive Neural Networks for Uncertain Nonlinear Systems." *Neurocomputing*, 436:184–197, 2021. [[DOI]](https://doi.org/10.1016/j.neucom.2021.01.055)
