@@ -28,13 +28,13 @@ News
 - **Oct 2026:** Started a research visit at [UCLouvain](https://uclouvain.be/en), Belgium (Oct–Dec 2026), hosted by Prof. [Julien M. Hendrickx](https://perso.uclouvain.be/julien.hendrickx/).
 - **Aug 2026:** Attended the 23rd IFAC World Congress in Busan, Republic of Korea, and gave an oral presentation on [topology estimation for open multi-agent systems](https://arxiv.org/abs/2604.13628).
 - **July 2026:** Paper on [topology identification of dynamical signed graphs](https://arxiv.org/abs/2604.09079) accepted at the European Control Conference (ECC 2026).
-- **Dec 2025:** Attended the 64th IEEE Conference on Decision and Control (CDC) in Rio de Janeiro, Brazil, and gave an oral presentation.
+- **Dec 2025:** Attended the 64th IEEE Conference on Decision and Control (CDC) in Rio de Janeiro, Brazil, and gave an oral presentation on [Leader selection and control design for topology estimation of dynamical networks](https://ieeexplore.ieee.org/document/11312879).
 - **Jun 2025:** Presented a poster at Reglermöte 2025 (Swedish Control Conference).
 - **Jan 2025:** Presented a poster at the WASP Winter Conference.
 - **Dec 2024:** Successfully defended my [licentiate thesis](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1912011) at KTH, with Prof. [Alessandro Chiuso](https://scholar.google.it/citations?user=9Pl5k60AAAAJ&hl=en) (University of Padova) as opponent.
-- **Dec 2024:** Attended the 63rd IEEE Conference on Decision and Control (CDC) in Milan, Italy, and gave an oral presentation.
+- **Dec 2024:** Attended the 63rd IEEE Conference on Decision and Control (CDC) in Milan, Italy, and gave an oral presentation on [Simultaneous Topology Estimation and Synchronization of Dynamical Networks with Time-Varying Topology](https://ieeexplore.ieee.org/document/10886499).
 - **Sep 2024:** Joined the WASP International Study Trip to Italy.
-- **Sep 2024:** Paper published in *IEEE Transactions on Control of Network Systems*.
+- **Sep 2024:** Paper [Simultaneous Topology Identification and Synchronization of Directed Dynamical Networks](https://ieeexplore.ieee.org/document/10337619) published in *IEEE Transactions on Control of Network Systems*.
 - **Aug 2024:** Joined the WASP Cluster Trip to Silicon Valley, USA.
 - **Jan 2024:** Presented a poster at the WASP Winter Conference.
 - **Dec 2023:** Attended the 62nd IEEE Conference on Decision and Control (CDC) in Singapore and gave two oral presentations.
