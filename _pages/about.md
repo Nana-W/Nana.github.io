@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Automatic Control at the Division of [Decision and Control Systems](https://www.kth.se/is/dcs), KTH Royal Institute of Technology, Stockholm, supervised by Prof. [Dimos V. Dimarogonas](https://people.kth.se/~dimos/). I am also part of the [Wallenberg AI, Autonomous Systems and Software Program (WASP)](https://wasp-sweden.org/) AI PhD program. From October to December 2026 I am a visiting researcher at [UCLouvain](https://uclouvain.be/en), Belgium, hosted by Prof. [Julien M. Hendrickx](https://perso.uclouvain.be/julien.hendrickx/).
+I am a Ph.D. candidate in Automatic Control at the [Department of Decision and Control Systems](https://www.kth.se/is/dcs), KTH Royal Institute of Technology, Stockholm, supervised by Prof. [Dimos V. Dimarogonas](https://people.kth.se/~dimos/). I am also part of the [Wallenberg AI, Autonomous Systems and Software Program (WASP)](https://wasp-sweden.org/) AI PhD program. From October to December 2026 I am a visiting researcher at [UCLouvain](https://uclouvain.be/en), Belgium, hosted by Prof. [Julien M. Hendrickx](https://perso.uclouvain.be/julien.hendrickx/).
 
 📄 [Download my CV](files/CV_NanaWang.pdf)
 
