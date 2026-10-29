@@ -25,7 +25,7 @@ News
 ======
 - **Oct 2026:** Started a research visit at UCLouvain, Belgium (Oct–Dec 2026), hosted by Prof. [Julien M. Hendrickx](https://perso.uclouvain.be/julien.hendrickx/).
 - **Aug 2026:** Attended the 23rd IFAC World Congress in Busan, Republic of Korea, and gave an oral presentation on [topology estimation for open multi-agent systems](https://arxiv.org/abs/2604.13628).
-- **2026:** Paper on [topology identification of dynamical signed graphs](https://arxiv.org/abs/2604.09079) accepted at the European Control Conference (ECC 2026).
+- **July 2026:** Paper on [topology identification of dynamical signed graphs](https://arxiv.org/abs/2604.09079) accepted at the European Control Conference (ECC 2026).
 - **Dec 2025:** Attended the 64th IEEE Conference on Decision and Control (CDC) in Rio de Janeiro, Brazil, and gave an oral presentation.
 - **Jun 2025:** Presented a poster at Reglermöte 2025 (Swedish Control Conference).
 - **Jan 2025:** Presented a poster at the WASP Winter Conference.
