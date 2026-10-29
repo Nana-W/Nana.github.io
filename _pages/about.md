@@ -24,11 +24,17 @@ My work focuses on recovering the hidden interaction structure (topology) of net
 News
 ======
 - **Oct 2026:** Started a research visit at UCLouvain, Belgium (Oct–Dec 2026), hosted by Prof. Julien M. Hendrickx.
-- **2026:** Papers accepted at the IFAC World Congress 2026 and the European Control Conference (ECC 2026).
-- **Dec 2025:** Paper on leader selection and control design for topology estimation published at IEEE CDC 2025.
-- **Dec 2024:** Paper on topology estimation for time-varying networks published at IEEE CDC 2024.
+- **Aug 2026:** Attended the 23rd IFAC World Congress in Busan, Republic of Korea, and gave an oral presentation.
+- **2026:** Paper on topology identification of dynamical signed graphs accepted at the European Control Conference (ECC 2026).
+- **Dec 2025:** Attended the 64th IEEE Conference on Decision and Control (CDC) in Rio de Janeiro, Brazil, and gave an oral presentation.
+- **Jun 2025:** Presented a poster at Reglermöte 2025 (Swedish Control Conference).
+- **Jan 2025:** Presented a poster at the WASP Winter Conference.
+- **Dec 2024:** Attended the 63rd IEEE Conference on Decision and Control (CDC) in Milan, Italy, and gave an oral presentation.
+- **Sep 2024:** Joined the WASP International Study Trip to Italy.
 - **Sep 2024:** Paper published in *IEEE Transactions on Control of Network Systems*.
-- **Dec 2023:** Gave two oral presentations at IEEE CDC 2023 in Singapore.
+- **Jan 2024:** Presented a poster at the WASP Winter Conference.
+- **Dec 2023:** Attended the 62nd IEEE Conference on Decision and Control (CDC) in Singapore and gave two oral presentations.
+- **Jan 2023:** Presented a poster at the WASP Winter Conference in Norrköping.
 
 Selected publications
 ======
