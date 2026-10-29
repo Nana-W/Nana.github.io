@@ -8,27 +8,52 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the Division of [Decision and Control Systems (DCS)](https://www.kth.se/is/dcs) at KTH Royal Institute of Technology, Stockholm, supervised by Prof. [Dimos V. Dimarogonas](https://people.kth.se/~dimos/).
+I am a Ph.D. candidate in Automatic Control at the Division of [Decision and Control Systems](https://www.kth.se/is/dcs), KTH Royal Institute of Technology, Stockholm, supervised by Prof. [Dimos V. Dimarogonas](https://people.kth.se/~dimos/). I am also part of the [Wallenberg AI, Autonomous Systems and Software Program (WASP)](https://wasp-sweden.org/) AI PhD program. From October to December 2026 I am a visiting researcher at UCLouvain, Belgium, hosted by Prof. Julien M. Hendrickx.
+
+📄 [Download my CV](files/CV_NanaWang.pdf)
 
 Research interests
 ======
-My research focuses on **multi-agent systems** and **complex dynamical networks**. In particular, I study how to identify the interaction structure (topology) of a network from data, and how to combine topology identification with control and synchronization. I also work on **adaptive control** and **event-triggered control**.
+- Learning and identification of dynamical systems
+- Networked and multi-agent systems, and topology identification
+- Learning and control of large-scale dynamical systems
+- Biological networked systems
+
+My work focuses on recovering the hidden interaction structure (topology) of networked dynamical systems from data, including networks under partial excitation, time-varying and open multi-agent networks, large-scale networks, and communication structures among immune-cell populations.
 
 News
 ======
-- **Sep 2024:** Our paper on simultaneous topology identification and synchronization of directed dynamical networks was published in *IEEE Transactions on Control of Network Systems*.
-- **Dec 2023:** I gave two oral presentations at the 62nd IEEE Conference on Decision and Control (CDC 2023) in Singapore.
+- **Oct 2026:** Started a research visit at UCLouvain, Belgium (Oct–Dec 2026), hosted by Prof. Julien M. Hendrickx.
+- **2026:** Papers accepted at the IFAC World Congress 2026 and the European Control Conference (ECC 2026).
+- **Dec 2025:** Paper on leader selection and control design for topology estimation published at IEEE CDC 2025.
+- **Dec 2024:** Paper on topology estimation for time-varying networks published at IEEE CDC 2024.
+- **Sep 2024:** Paper published in *IEEE Transactions on Control of Network Systems*.
+- **Dec 2023:** Gave two oral presentations at IEEE CDC 2023 in Singapore.
 
 Selected publications
 ======
+- **N. Wang**, P. Sekercioglu, D. V. Dimarogonas. "Topology Estimation for Open Multi-Agent Systems." *IFAC World Congress*, 2026 (accepted).
+- **N. Wang**, D. V. Dimarogonas. "Leader Selection and Control Design for Topology Estimation of Dynamical Networks." *IEEE CDC*, 2025. [[DOI]](https://doi.org/10.1109/CDC57313.2025.11312879)
+- **N. Wang**, E. Restrepo, D. V. Dimarogonas. "Simultaneous Topology Estimation and Synchronization of Dynamical Networks with Time-Varying Topology." *IEEE CDC*, 2024. [[DOI]](https://doi.org/10.1109/CDC56724.2024.10886499)
 - E. Restrepo, **N. Wang**, D. V. Dimarogonas. "Simultaneous Topology Identification and Synchronization of Directed Dynamical Networks." *IEEE Transactions on Control of Network Systems*, 2024. [[DOI]](https://doi.org/10.1109/TCNS.2023.3338253)
-- **N. Wang**, D. V. Dimarogonas. "Finite-Time Topology Identification for Complex Dynamical Networks." *IEEE CDC*, 2023. [[DOI]](https://doi.org/10.1109/CDC49753.2023.10383624)
-- E. Restrepo, **N. Wang**, D. V. Dimarogonas. "Simultaneous Synchronization and Topology Identification of Complex Dynamical Networks." *IEEE CDC*, 2023. [[DOI]](https://doi.org/10.1109/CDC49753.2023.10383578)
 
 See the [full list of publications](publications/).
 
 Education
 ======
-- **PhD**, Decision and Control Systems, KTH Royal Institute of Technology, Stockholm — ongoing
-- **M.Sc.**, Control Theory and Science, Beihang University, Beijing, 2022
-- **B.Sc.**, Detection, Guidance and Control, Northwestern Polytechnical University, Xi'an, 2019
+- **Ph.D. in Automatic Control**, KTH Royal Institute of Technology, Sweden, 2022 – 2027 (expected)
+- **WASP AI PhD Program**, Wallenberg AI, Autonomous Systems and Software Program, 2022 – 2027 (expected)
+- **M.Phil. in Control Theory and Engineering**, Beihang University, China, 2019 – 2022
+- **B.Eng. in Detection, Guidance and Control Technology**, Northwestern Polytechnical University, China, 2015 – 2019
+
+Academic service
+======
+- **Journal reviewer:** IEEE Transactions on Automatic Control; IEEE Transactions on Control of Network Systems; IEEE Transactions on Signal and Information Processing over Networks
+- **Conference reviewer:** IEEE CDC; American Control Conference; IFAC World Congress; European Control Conference
+
+Awards and honors
+======
+- Travel Scholarship, Karl Engver's Foundation
+- National Scholarship for Postgraduates, Beihang University
+- First-class Academic Scholarship, Beihang University
+- Outstanding Graduate, Beihang University
