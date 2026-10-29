@@ -31,7 +31,7 @@ News
 - **Dec 2025:** Attended the 64th IEEE Conference on Decision and Control (CDC) in Rio de Janeiro, Brazil, and gave an oral presentation.
 - **Jun 2025:** Presented a poster at Reglermöte 2025 (Swedish Control Conference).
 - **Jan 2025:** Presented a poster at the WASP Winter Conference.
-- **Dec 2024:** Successfully defended my licentiate thesis at KTH, with Prof. [Alessandro Chiuso](https://scholar.google.it/citations?user=9Pl5k60AAAAJ&hl=en) (University of Padova) as opponent.
+- **Dec 2024:** Successfully defended my [licentiate thesis](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1912011) at KTH, with Prof. [Alessandro Chiuso](https://scholar.google.it/citations?user=9Pl5k60AAAAJ&hl=en) (University of Padova) as opponent.
 - **Dec 2024:** Attended the 63rd IEEE Conference on Decision and Control (CDC) in Milan, Italy, and gave an oral presentation.
 - **Sep 2024:** Joined the WASP International Study Trip to Italy.
 - **Sep 2024:** Paper published in *IEEE Transactions on Control of Network Systems*.
