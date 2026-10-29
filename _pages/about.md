@@ -52,11 +52,11 @@ See the [full list of publications](publications/).
 
 Education
 ======
-- **Ph.D. in Automatic Control**, KTH Royal Institute of Technology, Sweden, 2022 – 2027 (expected)
+- **Ph.D. in Automatic Control**, [KTH Royal Institute of Technology](https://www.kth.se/en), Sweden, 2022 – 2027 (expected)
 - **WASP AI PhD Program**, Wallenberg AI, Autonomous Systems and Software Program, 2022 – 2027 (expected)
-- **M.Phil. in Control Theory and Engineering**, Beihang University, China, 2019 – 2022
-- **B.Eng. in Detection, Guidance and Control Technology**, Northwestern Polytechnical University, China, 2015 – 2019
-- **Minor in Law**, Northwestern Polytechnical University, China, 2016 – 2019
+- **M.Phil. in Control Theory and Engineering**, [Beihang University](https://ev.buaa.edu.cn/), China, 2019 – 2022
+- **B.Eng. in Detection, Guidance and Control Technology**, [Northwestern Polytechnical University](https://en.nwpu.edu.cn/), China, 2015 – 2019
+- **Minor in Law**, [Northwestern Polytechnical University](https://en.nwpu.edu.cn/), China, 2016 – 2019
 
 Academic service
 ======
