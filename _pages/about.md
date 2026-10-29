@@ -35,6 +35,7 @@ News
 - **Sep 2024:** Paper published in *IEEE Transactions on Control of Network Systems*.
 - **Jan 2024:** Presented a poster at the WASP Winter Conference.
 - **Dec 2023:** Attended the 62nd IEEE Conference on Decision and Control (CDC) in Singapore and gave two oral presentations.
+- **Sep 2023:** Joined the WASP International Study Trip to Boston, USA.
 - **Jan 2023:** Presented a poster at the WASP Winter Conference in Norrköping.
 
 Selected publications
