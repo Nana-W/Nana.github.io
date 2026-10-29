@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home page"
+title                    : "Nana Wang"
 title_separator          : "-"
 name                     : &name "Nana Wang"
-description              : &description "personal description"
+description              : &description "Nana Wang, PhD student in Decision and Control Systems at KTH Royal Institute of Technology"
 url                      : "https://nana-w.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/Nana.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "Nana-W/Nana.github.io"
@@ -82,11 +82,12 @@ analytics:
 author:
   name             : "Nana Wang"
   avatar           : "profile.JPG"
-  #bio              : "ur biograph"
-  employer         :
+  bio              : "PhD student in Decision and Control Systems"
+  location         : "Stockholm, Sweden"
+  employer         : "KTH Royal Institute of Technology"
  # pubmed           :  "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=wi9K7qgAAAAJ"
-  email            :
+  email            : "nanaw@kth.se"
   researchgate     : "https://www.researchgate.net/profile/Nana-Wang-6"
   uri              :
   bitbucket        :
